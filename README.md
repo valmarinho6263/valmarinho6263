@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">TEACHS</p>
+
 
 ###
 
