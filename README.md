@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">TECNOLOGIAS</p>
+<p align="left">FRONT END LANGUAGESS</p>
 
 ###
 
