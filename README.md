@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on beauty products reseller
 - 🌱 I’m currently learning Front End
 - 📖 Studying Javascrip, Html e Css
-- 📫 How to reach me: Through my social networks
+- 📫 How to reach me ? : Through my social networks
 -->
 <p align="left"></p>
 
