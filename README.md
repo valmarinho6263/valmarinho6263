@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">TEACHS</p>
+<p align="left">TECNOLOGIAS</p>
 
 ###
 
