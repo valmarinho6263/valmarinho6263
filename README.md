@@ -48,7 +48,7 @@
 <div align="left">
   <a href="https://linkedin.com/in/valdenicedeassismarinho" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a href="https://x.com/valdenice110M "target="_blank">
+  </a href="https://x.com/@valdenice110M "target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/X/default.svg" width="52" height="40" alt="X logo"  />
   <a href="https://youtube.com/@thevaldenice110" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
