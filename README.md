@@ -11,7 +11,7 @@
 - 💻 Landing Page Beauty (HTML + CSS)  
 - 📝 To-do List (JavaScript)  
 - ⚛️ First React App
-- 
+  
 - 💅 I’m currently working as a beauty products reseller
 - [<>] I’m currently learning Front End development
 - 📖 Studying Javascrip, Html and Css
