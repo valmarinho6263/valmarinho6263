@@ -6,12 +6,17 @@
   
 ## Hello👋 I'm Val Marinho
 
-- 💅 I’m currently working on beauty products reseller
-- [<>] I’m currently learning Front End
-- 📖 Studying Javascrip, Html e Css
-- 📫 How to reach me ? : Through my social networks
--->
-<p align="left"></p>
+🎯  Junior Front-End Developer | HTML • CSS • JavaScript • React
+## 🚀 Projects
+- 💻 Landing Page Beauty (HTML + CSS)  
+- 📝 To-do List (JavaScript)  
+- ⚛️ First React App
+- 
+- 💅 I’m currently working as a beauty products reseller
+- [<>] I’m currently learning Front End development
+- 📖 Studying Javascrip, Html and Css
+- 📫 How to reach me : through my social networks
+
 
 ###
 
